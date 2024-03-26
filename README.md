@@ -14,6 +14,9 @@ Alternative fueling stations are located throughout the United States and Canada
 
 The most recent dataset available for download here provides a "snapshot" of the alternative fueling station information for compressed natural gas (CNG), ethanol (E85), propane/liquefied petroleum gas (LPG), biodiesel (B20 and above), electric vehicle charging, hydrogen, and liquefied natural gas (LNG), as of July 29, 2021.
 
+![image](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/bdf71031-6720-4408-a080-4ef091c9cbc0)
+
+
 #Capstone 1 Goals
 - Visualize interacive map displaying Fueling Locations all around the US.
 - Find out what the most common types of alternative fuels available at these stations are.
