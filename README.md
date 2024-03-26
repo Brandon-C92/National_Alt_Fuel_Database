@@ -1,7 +1,7 @@
 # Exploring A National Database of Available Alternative Fuel Stations and Locations of the United States of America
 # SPC Brandon Cooke, USARMY
 A interactive map with current Alternative fuel stations with locations on an interacive Folium map that can be localized or drag-and-dropped into a web browser along with data analytics of the types of fuel stations throughout the US.
-![image](https://github.com/Brandon-C92/National_Fuel_Stations/assets/161045627/39e6cc38-db5d-45e0-bbef-724a4218295e)
+![image](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/04a3cfc5-3734-41b1-85b0-1566e030a57e)
 
 About the Open Energy Data Initiative (OEDI)
 OEDI is a centralized repository of high-value energy research datasets aggregated from the U.S. Department of Energy’s Programs, Offices, and National Laboratories. Built to enable data discoverability, OEDI facilitates access to a broad network of findings, including the data available in technology-specific catalogs like the Geothermal Data Repository and Marine Hydrokinetic Data Repository.
