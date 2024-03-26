@@ -1,4 +1,4 @@
-# Exploring A National Database of Available Alternative Fuel Stations and Locations for the United States of America
+# Exploring A National Database of Available Alternative Fuel Stations and Locations of the United States of America
 # SPC Brandon Cooke, USARMY
 A interactive map with current Alternative fuel stations with locations on an interacive Folium map that can be localized or drag-and-dropped into a web browser along with data analytics of the types of fuel stations throughout the US.
 ![image](https://github.com/Brandon-C92/National_Fuel_Stations/assets/161045627/39e6cc38-db5d-45e0-bbef-724a4218295e)
