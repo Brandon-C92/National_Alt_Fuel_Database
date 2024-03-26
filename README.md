@@ -1,6 +1,7 @@
 # Exploring A National Database of Available Alternative Fuel Stations and Locations of the United States of America
 # SPC Brandon Cooke, USARMY
 A interactive map with current Alternative fuel stations with locations on an interacive Folium map that can be localized or drag-and-dropped into a web browser along with data analytics of the types of fuel stations throughout the US.
+
 ![image](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/04a3cfc5-3734-41b1-85b0-1566e030a57e)
 
 About the Open Energy Data Initiative (OEDI)
