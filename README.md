@@ -17,7 +17,7 @@ The most recent dataset available for download here provides a "snapshot" of the
 ![image](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/bdf71031-6720-4408-a080-4ef091c9cbc0)
 
 
-#Capstone 1 Goals
+# Capstone 1 Goals
 - Visualize interacive map displaying Fueling Locations all around the US.
 - Find out what the most common types of alternative fuels available at these stations are.
 - Find out if certain types of alternative fuels more prevalent in specific cities or areas.
@@ -25,7 +25,7 @@ The most recent dataset available for download here provides a "snapshot" of the
 
 # Data Visualization
 I first wanted to know how many stations were created, and when they started being produced.
-- But to do that I had to transfrom the data into a readable format
+- But to do that I had to transfrom the data into a readable format:
 
  <img width="1092" alt="Screenshot 2024-03-27 at 5 32 03 PM" src="https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/423b6646-1bde-4a5b-9fd7-e7357d130783">
  
@@ -40,11 +40,13 @@ I was able to grab certain values and asssign them to the correct columns and al
 From There:
 
 I created a temporal line graph to showcase the creation of alternative fuel stations thoughout the years.
+
 ![Time_analysis_of_stations](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/dae167c2-f1bc-4bf2-aa91-d1fda60b24f6)
 
 Fig 1. The number of unique staion openings in the dataset, over time.
 
 Next, I created additional graphs to fine tune when those stations were created by month and day of week.
+
 ![New_stations_open_by_month](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/8ae1121d-e67d-4dfa-87c7-75afd934f52b)
 
 Fig 2. The number of unique staion openings in the dataset, over time by month.
