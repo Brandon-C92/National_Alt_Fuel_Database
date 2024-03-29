@@ -84,6 +84,26 @@ Since we have all of our statiscical analysis done, I went and started to config
 
 ![SMALL DISTANCE](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/853a0167-54f6-40f0-858b-f544504dfea9)
 
-Fig 7 and 8. A a histogram bar chart with values that denote the distances to fuel stations based on a sample of data (x1000 becasue of data size vs computational power).
+Fig 7 and 8. A histogram bar chart with values that denote the distances to fuel stations based on a sample of data (x1000 becasue of data size vs computational power).
 
-I also discovered 
+From there, after getting all that statistical data, it was time to move on to the MVP. I created a visual, interactive Folium map that you can view on a webpage. It's similar to using Google Maps or other online mapping services. However, with Folium, you can create your own customized maps with different features and layers.
+I took in the refined dataframe and published it with folium to show fuel stations all around the United States.
+As stated before the dataset was so large (56800 rows of data), that local analysis on this Mac Book Pro wasn’t capable processing this dataset completely.
+
+This folium map is the point map displaying a sample of fuel stations across the US.
+
+![CPT2403291101-644x4331-ezgif com-optimize](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/27c7ab00-acab-49b2-a1d6-e433e10dc73c)
+
+Fig 9. A interactive map displaying a sample of point data containing points, station info, fuel type, and address. (x1000 becasue of data size vs computational power).
+
+This folium map is a Heatmnap that shows the denity of stations in an area.
+
+![CPT2403291122-716x402-ezgif com-optimize](https://github.com/Brandon-C92/National_Alt_Fuel_Database/assets/161045627/43520c16-5551-404d-89ad-a0e530088b26)
+
+
+Fig 10. A interactive Heatmap displaying a sample of point data showing the density of fuel stations pertaiing to loactions on the map. (x1000 becasue of data size vs computational power).
+
+
+# Future Considerations:
+
+I want to, based on trending analysis and proper data collection gather relevant data including factors such as population density, transportation infrastructure, regulatory policies, historical fuel consumption, station adoption rates, etc. I would want to perform a predictive model for forecasting future demands for alternative fuels or the possible prediction of the likelihood of station adoption.
